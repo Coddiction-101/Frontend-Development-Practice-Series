@@ -10,7 +10,7 @@ A collection of UI components I build daily to improve my frontend development s
 |----|----|----|
 | Day 1 | Feature Grid Section | [Live](https://01-grid-layout.netlify.app/) |
 | Day 2 | Login Form UI | [n/a]() |
-| Day 3 | Navbar Component | [Live]() |
+| Day 3 | Navbar Component | [n/a]() |
 
 ---
 
