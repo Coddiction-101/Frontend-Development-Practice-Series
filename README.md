@@ -11,7 +11,7 @@ A collection of UI components I build daily to improve my frontend development s
 | Day | Component | Live Demo |
 |----|----|----|
 | Day 01 | Feature Grid Layout | [Live](https://01-grid-layout.netlify.app/) |
-| Day 02 | Login UI | [Live] |
+| Day 02 | Login UI | [Live](https://coddiction-101.github.io/Frontend-Development-Practice-Series/day_02_LoginUI/) |
 | Day 03 | Navbar | Coming Soon |
 ---
 
