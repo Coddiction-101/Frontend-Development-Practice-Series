@@ -6,6 +6,8 @@ This project focuses on improving **layout design, component structure, and resp
 
 ---
 
+### Live Demo ::  [View Live Project](https://01-grid-layout.netlify.app/)
+
 ## Preview
 
 ![Feature Grid UI](https://github.com/Coddiction-101/Frontend-Development-Practice-Series/blob/main/day_01_FeatureGrid/GridLayout_01.png)
