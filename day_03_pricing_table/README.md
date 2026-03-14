@@ -22,7 +22,7 @@ Key areas of focus:
 
 ## 🖼 Preview
 
-![Pricing Cards UI](./preview.png)
+![Pricing Cards UI](https://github.com/Coddiction-101/Frontend-Development-Practice-Series/blob/main/day_03_pricing_table/pricing-cards.png)
 
 ---
 
