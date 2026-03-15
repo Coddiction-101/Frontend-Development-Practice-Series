@@ -13,6 +13,7 @@ A collection of UI components I build daily to improve my frontend development s
 | Day 01 | Feature Grid Layout | [Live](https://01-grid-layout.netlify.app/) |
 | Day 02 | Login UI | [Live](https://1-login-form.netlify.app/) |
 | Day 03 | Pricing Cards | [Live](https://3-pricing-cards.netlify.app/) |
+| 
 ---
 
 ## 🛠 Tech Stack
