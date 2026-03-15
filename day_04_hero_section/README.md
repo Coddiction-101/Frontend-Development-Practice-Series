@@ -14,8 +14,6 @@ This project demonstrates building a landing page hero component, focusing on la
 
 ## 📸 Preview
 
-*(Insert a screenshot or GIF of your hero section here)*
-
 ---
 
 ## 🛠 Technologies Used
