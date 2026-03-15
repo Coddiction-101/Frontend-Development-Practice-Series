@@ -8,7 +8,7 @@ This project focuses on building reusable UI components, improving layout thinki
 
 ## 🚀 Live Demo
 
-🔗 https://coddiction-101.github.io/Frontend-Development-Practice-Series/day_02_LoginUI/
+🔗 https://1-login-form.netlify.app/
 
 ---
 
