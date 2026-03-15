@@ -14,6 +14,8 @@ This project demonstrates building a landing page hero component, focusing on la
 
 ## 📸 Preview
 
+![Hero Section](https://github.com/Coddiction-101/Frontend-Development-Practice-Series/blob/main/day_03_pricing_table/pricing-cards.png)
+
 ---
 
 ## 🛠 Technologies Used
