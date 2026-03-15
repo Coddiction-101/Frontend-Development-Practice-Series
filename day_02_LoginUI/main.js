@@ -8,5 +8,4 @@ togglePassword.addEventListener("click", function () {
 
     this.classList.toggle("ri-eye-off-line");
 });
-
-
+    
