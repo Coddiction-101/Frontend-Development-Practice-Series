@@ -29,13 +29,12 @@
       <p class="subtitle">Enter your email and password below to sign in</p>
 
       <form>
-        <label>Email:</label>
-        <input type="email" placeholder="JohnDoe99@gmail.com">
-
+        <label>Email</label>
+        <input type="email" placeholder="JohnDoe99@gmail.com" required>
         <label>Password</label>
         <div class="password-field">
-          <input type="password" id="password" placeholder="Enter password">
-          <i class="ri-eye-line toggle-password"></i>
+          <input type="password" id="password" placeholder="Enter password" required minlength="6"> <i
+            class="ri-eye-line toggle-password"></i>
         </div>
         <button class="signin-btn">Sign in</button>
       </form>
