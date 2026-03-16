@@ -1,1 +1,89 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
 
+body {
+    font-family: "Montserrat";
+    background: #eef1f3;
+    color: #111;
+}
+
+.features {
+    padding: 80px 20px;
+    background: #f8f9fa;
+    text-align: center;
+}
+
+.feature-header {
+    max-width: 600px;
+    margin: 0 auto 60px;
+}
+
+.feature-header h2 {
+    font-size: 34px;
+    margin-bottom: 12px;
+}
+
+.feature-header span {
+    font-family: "Zalando Sans Expanded";
+}
+
+.feature-header p {
+    color: #666;
+    font-size: 15px;
+    line-height: 1.6;
+}
+
+.feature-grid {
+    max-width: 1100px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+}
+
+.feature-card {
+    background: rgb(193, 189, 255);
+    padding: 30px;
+    border-radius: 14px;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.05);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.feature-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 14px 30px rgba(0, 0, 0, 0.08);
+}
+
+.icon {
+    width: 50px;
+    height: 50px;
+    margin: 0 auto 20px;
+    border-radius: 10px;
+    background: #f1f3f5;
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.feature-card h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.feature-card p {
+    color: #666;
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+    .feature-grid {
+        grid-template-columns: 1fr;
+        gap: 25px;
+    }
+}
