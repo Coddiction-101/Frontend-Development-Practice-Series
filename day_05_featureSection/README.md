@@ -24,8 +24,6 @@ This project focuses on practicing **card-based layouts**, **grid systems**, and
 - **CSS3** – Styling and layout
 - **CSS Grid** – Card layout system
 - **Remix Icons** – Icon library
-- **Google Fonts (Inter)** – Modern, clean typography
-
 ---
 
 ## ✨ Features Implemented
