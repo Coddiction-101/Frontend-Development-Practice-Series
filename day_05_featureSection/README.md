@@ -14,7 +14,7 @@ This project focuses on practicing **card-based layouts**, **grid systems**, and
 
 ## 📸 Preview
 
-![Feature Grid UI](https://feature-sectixn.netlify.app/)
+![Feature Section](https://feature-sectixn.netlify.app/)
 
 
 *(Insert a screenshot or GIF of your feature section here)*
