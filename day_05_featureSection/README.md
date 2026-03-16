@@ -8,7 +8,7 @@ This project focuses on practicing **card-based layouts**, **grid systems**, and
 
 ## 🚀 Live Demo
 
-🔗 [View Live Demo](https://1hero-section.netlify.app/)
+🔗 [View Live Demo](https://feature-sectixn.netlify.app/)
 
 ---
 
