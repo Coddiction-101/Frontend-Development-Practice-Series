@@ -14,7 +14,7 @@ A collection of UI components I build daily to improve my frontend development s
 | Day 02 | Login UI | [Live](https://1-login-form.netlify.app/) |
 | Day 03 | Pricing Cards | [Live](https://3-pricing-cards.netlify.app/) |
 | Day 04 | Hero Section  | [Live](https://1hero-section.netlify.app/)   |
-| Day 05 | Feature Section | [Live]()
+| Day 05 | Feature Section | [Live](https://feature-sectixn.netlify.app/)  |
 ---
 
 ## 🛠 Tech Stack
