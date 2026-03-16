@@ -16,8 +16,6 @@ This project focuses on practicing **card-based layouts**, **grid systems**, and
 
 ![Feature Section](https://github.com/Coddiction-101/Frontend-Development-Practice-Series/blob/main/day_05_featureSection/feature_section.png)
 
-*(Insert a screenshot or GIF of your feature section here)*
-
 ---
 
 ## 🛠 Technologies Used
