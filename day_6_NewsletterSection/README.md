@@ -6,7 +6,7 @@
 
 ## 🖼️ Preview
 
-![Newsletter UI Preview](./preview.png)
+![Newsletter UI Preview](https://github.com/Coddiction-101/Frontend-Development-Practice-Series/blob/main/day_6_NewsletterSection/reference.png)
 
 ---
 
