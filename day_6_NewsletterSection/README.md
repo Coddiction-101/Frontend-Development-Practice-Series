@@ -3,6 +3,8 @@
 > Part of my **Frontend Development Practice Series** — one UI component built daily using HTML, CSS, and vanilla JavaScript.
 
 ---
+## Demo
+[Live Demo](https://newsletter-subscribe-section.netlify.app/)
 
 ## 🖼️ Preview
 
