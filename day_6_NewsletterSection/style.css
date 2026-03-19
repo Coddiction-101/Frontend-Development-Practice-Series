@@ -1,1 +1,231 @@
+ * {
+     padding: 0;
+     margin: 0;
+     box-sizing: border-box;
+ }
 
+ body {
+     background-color: #f0f0ee;
+     min-height: 100vh;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     font-family: "Montserrat", sans-serif;
+ }
+
+ .card {
+     background: rgb(37, 36, 37);
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+     max-width: 860px;
+     width: 90%;
+     border-radius: 10px;
+     overflow: hidden;
+     box-shadow: 0 8px 40px rgba(0, 0, 0, 0.3);
+ }
+
+ .left-panel {
+     display: flex;
+     flex-direction: column;
+     padding: 48px 40px;
+     gap: 28px;
+     border-right: 1px solid #333;
+ }
+
+ .headline-block h1 {
+     font-size: 2rem;
+     font-weight: 600;
+     font-family: "Playfair Display", serif;
+     margin-bottom: 12px;
+     line-height: 1.2;
+     color: #ffffff;
+ }
+
+ .headline-block .subtitle {
+     max-width: 300px;
+     font-size: 0.875rem;
+     color: #d4cdcd;
+     line-height: 1.6;
+ }
+
+ .divider {
+     border: none;
+     border-top: 1px solid #333;
+ }
+
+ .feature-grid {
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+     gap: 16px 24px;
+     list-style: none;
+ }
+
+ .feature-item {
+     display: flex;
+     align-items: flex-start;
+     gap: 8px;
+     font-size: 0.8rem;
+     color: #cccccc;
+     line-height: 1.5;
+ }
+
+ .feature-item i {
+     color: #aaaaaa;
+     flex-shrink: 0;
+     margin-top: 2px;
+     font-size: 1rem;
+ }
+
+ .feature-item strong {
+     text-decoration: underline;
+     font-weight: 700;
+     color: #ffffff;
+ }
+
+ .right-panel {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     padding: 48px 40px;
+     gap: 24px;
+     background:
+         radial-gradient(ellipse at 20% 50%, rgba(147, 210, 180, 0.6) 0%, transparent 60%),
+         radial-gradient(ellipse at 80% 20%, rgba(120, 190, 230, 0.5) 0%, transparent 55%),
+         radial-gradient(ellipse at 70% 80%, rgba(220, 230, 120, 0.5) 0%, transparent 50%),
+         #f8faf8;
+ }
+
+ .subscribe-heading {
+     font-family: "Inter", serif;
+     font-size: 2rem;
+     font-weight: 800;
+     color: #111111;
+ }
+
+ .email-input-group {
+     display: flex;
+     align-items: center;
+     background: rgba(255, 255, 255, 0.75);
+     border: 1px solid #d0d0d0;
+     border-radius: 8px;
+     padding: 4px 4px 4px 14px;
+     backdrop-filter: blur(6px);
+ }
+
+ .email-input-group input {
+     flex: 1;
+     border: none;
+     outline: none;
+     background: transparent;
+     font-size: 0.85rem;
+     font-family: "Inter", sans-serif;
+     color: #333333;
+ }
+
+ .email-input-group input::placeholder {
+     color: #aaa;
+ }
+
+ .submit-btn {
+     background-color: #111111;
+     border: none;
+     border-radius: 6px;
+     width: 34px;
+     height: 34px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     cursor: pointer;
+     flex-shrink: 0;
+     transition: background 0.2s ease;
+ }
+
+ .submit-btn i {
+     color: #ffffff;
+     font-size: 1rem;
+ }
+
+ .submit-btn:hover {
+     background-color: #333333;
+ }
+
+ .terms {
+     display: flex;
+     align-items: flex-start;
+     gap: 8px;
+     cursor: pointer;
+ }
+
+ .terms input[type="checkbox"] {
+     margin-top: 3px;
+     flex-shrink: 0;
+     accent-color: #111111;
+     cursor: pointer;
+ }
+
+ .terms span {
+     font-size: 0.7rem;
+     color: #666;
+     line-height: 1.5;
+ }
+
+ .terms span a {
+     text-decoration: underline;
+     color: #111111;
+ }
+
+ @media (max-width: 640px) {
+     .card {
+         grid-template-columns: 1fr;
+     }
+
+     .left-panel {
+         border-right: none;
+         border-bottom: 1px solid #333;
+     }
+
+     .feature-grid {
+         grid-template-columns: 1fr;
+     }
+ }
+
+ @keyframes shake {
+
+     0%,
+     100% {
+         transform: translateX(0);
+     }
+
+     20% {
+         transform: translateX(-6px);
+     }
+
+     40% {
+         transform: translateX(6px);
+     }
+
+     60% {
+         transform: translateX(-4px);
+     }
+
+     80% {
+         transform: translateX(4px);
+     }
+ }
+
+ .shake {
+     animation: shake 0.4s ease;
+ }
+
+ .error-msg {
+     font-size: 0.72rem;
+     color: #e05555;
+     padding-left: 2px;
+ }
+
+ .success-msg {
+     font-size: 0.85rem;
+     color: #333333;
+     line-height: 1.6;
+     max-width: 260px;
+ }
