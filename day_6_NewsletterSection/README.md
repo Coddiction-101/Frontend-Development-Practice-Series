@@ -58,9 +58,6 @@ NewsletterSection
 | CSS3 | Grid, Flexbox, gradients, animations |
 | Vanilla JS | Form validation, success state |
 | [Remix Icons](https://remixicon.com/) | Feature list icons |
-| [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) | Serif headings |
-| [Inter](https://fonts.google.com/specimen/Inter) | Body + input text |
-| [Montserrat](https://fonts.google.com/specimen/Montserrat) | Base UI font |
 
 ---
 
@@ -97,37 +94,6 @@ Fades out the input group and terms label, then swaps the heading to *"You're in
 
 ---
 
-## 📁 File Structure
-
-```
-day-06-newsletter/
-├── index.html
-├── style.css
-├── main.js
-└── README.md
-```
-
----
-
-## 🚀 How to Run
-
-No build tools needed. Just open in your browser:
-
-```bash
-# Clone the full practice series repo
-git clone https://github.com/your-username/frontend-practice-series.git
-
-# Navigate to this project
-cd frontend-practice-series/day-06-newsletter
-
-# Open in browser
-open index.html
-```
-
-Or simply drag `index.html` into any browser window.
-
----
-
 ## 📚 What I Learned
 
 - How to **analyze a design** before writing a single line of code — breaking it into layout zones, components, and visual decisions
@@ -139,21 +105,3 @@ Or simply drag `index.html` into any browser window.
 - `accent-color` for native-styled checkboxes without custom CSS hacks
 
 ---
-
-## 🗓️ Practice Series Progress
-
-| Day | Component | Status |
-|---|---|---|
-| Day 1 | Pricing Cards | ✅ Done |
-| Day 2 | Login UI (toggle + validation) | ✅ Done |
-| Day 3 | Pricing UI Variant | ✅ Done |
-| Day 4 | Hero Section | ✅ Done |
-| Day 5 | Feature Section | ✅ Done |
-| **Day 6** | **Newsletter / Subscribe Section** | ✅ **Done** |
-| Day 7 | Coming soon... | 🔜 |
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
