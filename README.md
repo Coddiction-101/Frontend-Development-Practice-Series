@@ -13,7 +13,7 @@ A collection of UI components I build daily to improve my frontend development s
 | Day 03 | Pricing Cards | [Live](https://3-pricing-cards.netlify.app/) |
 | Day 04 | Hero Section | [Live](https://1hero-section.netlify.app/) |
 | Day 05 | Feature Section | [Live](https://feature-sectixn.netlify.app/) |
-| Day 06 | Newsletter / Subscribe Section | [Live](#) |
+| Day 06 | Newsletter / Subscribe Section | [Live](https://newsletter-subscribe-section.netlify.app/) |
 
 ---
 
