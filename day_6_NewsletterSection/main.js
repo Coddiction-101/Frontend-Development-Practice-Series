@@ -1,4 +1,3 @@
-
 const form = document.querySelector('.email-input-group');
 const emailInput = document.querySelector('.email-input-group input');
 const submitBtn = document.querySelector('.submit-btn');
